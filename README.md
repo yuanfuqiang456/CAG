@@ -8,3 +8,5 @@ This project uses deep learning techniques to complete this research.Specially,w
 Gastric antrum image.The recognition accuracy of chronic atrophic gastritis is more than 98%,and level of sensitivity is 95.9%，the specificity
 is 94%。
 We have drawn the ROC curve and p-R curve of the model separately.
+The POC curce is like below .
+ ![image](https://github.com/yuanfuqiang456/CAG/tree/master/pic)
