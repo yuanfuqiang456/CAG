@@ -1,7 +1,7 @@
 # CAG
 CAG means Chronic Atrophic Gastritis. This project use CNN to dectect CAG .
 
-This research was done together with the Department of Gastroenterology, Shanxi Provincial People's Hospital.
+This research was done together by YuanFuqiang and the doctors Li Fengxia,Zhang Yaqiong of the Department of Gastroenterology, Shanxi Provincial People's Hospital.
 The purpose is to detect the final chronic atrophic gastritis of the gastroscopic image.
 
 This project uses deep learning techniques to complete this research.Specially,We have more than 2000 pictures and we use DenseNet161 to  reach the state-of-art in the dectecting of Gastric antrum image. The recognition accuracy of chronic atrophic gastritis is more than 98%,and level of sensitivity is 95.9%，the specificity
