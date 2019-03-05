@@ -9,4 +9,4 @@ Gastric antrum image.The recognition accuracy of chronic atrophic gastritis is m
 is 94%。
 We have drawn the ROC curve and p-R curve of the model separately.
 The POC curce is like below .
- ![image](https://github.com/yuanfuqiang456/CAG/tree/master/pic)
+ ![image](https://github.com/yuanfuqiang456/CAG/blob/master/pic/ROC.png?raw=true)
