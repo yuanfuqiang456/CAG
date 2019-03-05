@@ -21,7 +21,7 @@ The POC curce is like below .
   
   In order to make an interpretability study on the model, the model learning results are visualized, and a model identification heat map is generated.
   
- ![image](https://github.com/yuanfuqiang456/CAG/blob/master/pic/visual.png?raw=true）
+  ![image](https://github.com/yuanfuqiang456/CAG/blob/master/pic/visual.png?raw=true)
   
   #How to use this project.
    This project can be runned in the environment of pytorch_0.4 and tensorboard .Tensorboard is used to display parameter changes during program execution.
@@ -50,7 +50,9 @@ The POC curce is like below .
 ├── T_ResNet.py
 ├── README.md
 ```
-  The Program entrance is main.py or other programs start with T-.The T- means Test of different models .
+  The Program entrance is main.py or other programs start with T-.The T- means Test of different models .The floder checkpoints is used to save model after train,and data is leaved with different pictures wu used .The models is model we used and changed according to our problems.and the logger.py and floder utils is used by tensorboard to save paramaters change during training .
+  If you want to visual you result of Gastric antrum image，you can change function “if __name__=='__main__':” of main.py or T_XXX.py.We have uploaded a trained model in this project of checkpoints floder.Yu can use it directly.So gopd luck!
+  if you hace any question,you can concat with me.
 
 
  
