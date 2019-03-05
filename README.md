@@ -21,11 +21,12 @@ The POC curce is like below .
   
   In order to make an interpretability study on the model, the model learning results are visualized, and a model identification heat map is generated.
   
-  ![image](https://github.com/yuanfuqiang456/CAG/blob/master/pic/visual.png?raw=true）
+ ![image](https://github.com/yuanfuqiang456/CAG/blob/master/pic/visual.png?raw=true）
   
   #How to use this project.
    This project can be runned in the environment of pytorch_0.4 and tensorboard .Tensorboard is used to display parameter changes during program execution.
   The project architecture is showed as below.
+```
 ├── checkpoints/ 
 ├── data/
 │   ├── __init__.py
@@ -48,7 +49,7 @@ The POC curce is like below .
 ├── T_VGG.py
 ├── T_ResNet.py
 ├── README.md
- 
+```
   The Program entrance is main.py or other programs start with T-.The T- means Test of different models .
 
 
