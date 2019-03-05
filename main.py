@@ -14,7 +14,10 @@ import numpy as np
 from PIL import  Image
 from torchvision import  transforms as T
 import cv2
-
+'''
+	author : Yuan FuQiang,Li FengXia,Zhang YaQiong
+	time : 2019.3.5
+'''
 
 logger = Logger(opt.log_path)
 
